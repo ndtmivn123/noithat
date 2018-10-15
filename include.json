@@ -1,0 +1,17 @@
+{
+    "SETUP": {
+        "index": {
+            "header": [
+                "header/h-7"
+            ],
+            "body": [
+                "slider/s-2",
+                "slider/s-1",
+                "boxes/b-12",
+                "boxes/b-1",
+                "testimonials/t-1",
+                "boxes/b-16"
+            ]
+        }
+    }
+}
